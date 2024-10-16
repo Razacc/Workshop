@@ -1,4 +1,4 @@
-# GPT
+# Workshop
 
 ## Quick start
 1. Clone the repo using SSH or HTTPS
