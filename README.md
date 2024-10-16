@@ -5,7 +5,7 @@
 
 ``your_path> git clone git@github.com:Razacc/Workshop.git``
 
-``your_path>git clone https://github.com/Razacc/Workshop.git``
+``your_path> git clone https://github.com/Razacc/Workshop.git``
 
 2. Create a venv
 
@@ -15,10 +15,10 @@
 
 ``your_path/Workshop> pip install -r requirements.txt``
 
-4.  Generate the cleaned csv
+4. Generate the cleaned csv
 
 ``your_path/Workshop> python main1.py``
 
-## Open the web interface and use the detection model
+5. Open the web interface and use the detection model
 
 ``your_path/Workshop> streamlit run main2.py``
